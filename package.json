@@ -3,17 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "tsc --build"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
-    "vite": "^5.0.0"
+    "typescript": "^5.2.2"
   },
   "dependencies": {
     "@magic-ext/algorand": "^16.3.0",
+    "@magic-ext/aptos": "^4.3.0",
     "@magic-ext/auth": "^4.3.0",
     "@magic-ext/avalanche": "^16.3.0",
     "@magic-ext/bitcoin": "^16.3.0",
@@ -23,7 +22,7 @@
     "@magic-ext/flow": "^16.3.0",
     "@magic-ext/gdkms": "^4.3.0",
     "@magic-ext/harmony": "^16.3.0",
-    "@magic-ext/hedera": "^1.0.2",
+
     "@magic-ext/icon": "^16.3.0",
     "@magic-ext/near": "^16.3.0",
     "@magic-ext/oauth": "^15.3.0",
