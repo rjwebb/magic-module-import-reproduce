@@ -23,7 +23,6 @@ import tezos from "@magic-ext/tezos"
 import webauthn from "@magic-ext/webauthn"
 import zilliqa from "@magic-ext/zilliqa"
 
-
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     placeholder
