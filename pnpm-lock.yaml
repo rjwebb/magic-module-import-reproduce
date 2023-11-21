@@ -6,77 +6,77 @@ settings:
 
 dependencies:
   '@magic-ext/algorand':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/aptos':
     specifier: ^4.3.0
     version: 4.3.0(@aptos-labs/wallet-adapter-core@2.6.0)(aptos@1.20.0)
   '@magic-ext/auth':
-    specifier: ^4.3.0
-    version: 4.3.0
+    specifier: ^4.3.1
+    version: 4.3.1
   '@magic-ext/avalanche':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/bitcoin':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/conflux':
-    specifier: ^14.3.0
-    version: 14.3.0
+    specifier: ^14.3.1
+    version: 14.3.1
   '@magic-ext/cosmos':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/ed25519':
-    specifier: ^12.3.0
-    version: 12.3.0
+    specifier: ^12.3.1
+    version: 12.3.1
   '@magic-ext/flow':
-    specifier: ^16.3.0
-    version: 16.3.0(@onflow/fcl@1.9.0)(@onflow/types@1.2.1)
+    specifier: ^16.3.1
+    version: 16.3.1(@onflow/fcl@1.9.0)(@onflow/types@1.2.1)
   '@magic-ext/gdkms':
-    specifier: ^4.3.0
-    version: 4.3.0
+    specifier: ^4.3.1
+    version: 4.3.1
   '@magic-ext/harmony':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/icon':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/near':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/oauth':
-    specifier: ^15.3.0
-    version: 15.3.0
+    specifier: ^15.3.1
+    version: 15.3.1
   '@magic-ext/oidc':
-    specifier: ^4.3.0
-    version: 4.3.0
+    specifier: ^4.3.1
+    version: 4.3.1
   '@magic-ext/polkadot':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/react-native-bare-oauth':
-    specifier: ^17.1.0
-    version: 17.1.0(@magic-sdk/react-native-bare@22.3.0)(react-native-inappbrowser-reborn@3.7.0)(react-native@0.72.7)
+    specifier: ^18.0.1
+    version: 18.0.1(@magic-sdk/react-native-bare@22.3.0)(react-native-inappbrowser-reborn@3.7.0)(react-native@0.72.7)
   '@magic-ext/react-native-expo-oauth':
-    specifier: ^17.1.0
-    version: 17.1.0(@magic-sdk/react-native-expo@22.3.0)(expo@49.0.20)
+    specifier: ^18.0.1
+    version: 18.0.1(@magic-sdk/react-native-expo@22.3.0)(expo@49.0.20)
   '@magic-ext/solana':
     specifier: ^18.1.0
     version: 18.1.0(@solana/web3.js@1.87.6)
   '@magic-ext/taquito':
-    specifier: ^13.3.0
-    version: 13.3.0
+    specifier: ^13.3.1
+    version: 13.3.1
   '@magic-ext/terra':
-    specifier: ^13.3.0
-    version: 13.3.0
+    specifier: ^13.3.1
+    version: 13.3.1
   '@magic-ext/tezos':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
   '@magic-ext/webauthn':
-    specifier: ^15.3.0
-    version: 15.3.0
+    specifier: ^15.3.1
+    version: 15.3.1
   '@magic-ext/zilliqa':
-    specifier: ^16.3.0
-    version: 16.3.0
+    specifier: ^16.3.1
+    version: 16.3.1
 
 devDependencies:
   typescript:
@@ -2233,8 +2233,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: false
 
-  /@magic-ext/algorand@16.3.0:
-    resolution: {integrity: sha512-ZwbRG9IPjUpThU/N9XkxeDN76MI5veYfSjYnn4dsbrrGL/kgg+4HcSH8Hrj7JU179NwyxMgM0ZZdIzejChBZVw==}
+  /@magic-ext/algorand@16.3.1:
+    resolution: {integrity: sha512-qFbsCD37nI2SUwtdQeij/+PWnT1AygblKBsvRNp6q+f7Ol4bbrGnEH4DURG1CJsbilTOWZlvh1xrFyUjJN/nzg==}
     dev: false
 
   /@magic-ext/aptos@4.3.0(@aptos-labs/wallet-adapter-core@2.6.0)(aptos@1.20.0):
@@ -2247,32 +2247,32 @@ packages:
       aptos: 1.20.0
     dev: false
 
-  /@magic-ext/auth@4.3.0:
-    resolution: {integrity: sha512-KSV1XxC2Z86fjUGLaSfLZOYlsEcn5FFYBMFuLA9z1DVvaa8TK4sfBbR3Qr7lH6mD9qidCdklvRzPE688H3v4lg==}
+  /@magic-ext/auth@4.3.1:
+    resolution: {integrity: sha512-FUMKiw8jRrPrnIato1DSfCY1BPhusNiLVBw38Fc4fB2q/uzMwJ3g9paQvsyRCjDgRIZ+p06lS0HEo2peuLrTgQ==}
     dev: false
 
-  /@magic-ext/avalanche@16.3.0:
-    resolution: {integrity: sha512-jDgwtkH0rdEM7ZHlyj84aKQQbZV9M1a6nWVEQM3Xr0SUXPvBZ0ntpSlfKHPVdp62zqRTuzjgJ6vehHjSHMoJ5w==}
+  /@magic-ext/avalanche@16.3.1:
+    resolution: {integrity: sha512-FRL+W5JUsbuE9bx9avgNDRL/pTO2DQA5tIvSsyVG6A3muyMZLpqsQbmF89bZUR1yf6kFGIaNDiV+7kRurWDODw==}
     dev: false
 
-  /@magic-ext/bitcoin@16.3.0:
-    resolution: {integrity: sha512-uwPxGQNov8xjfH9TYtVAhEgVoPK+iSCztRHN3XFXfkjNm9D07DkAZWNe+PatF7E3nepV6IwZfveNycKeqsfLyA==}
+  /@magic-ext/bitcoin@16.3.1:
+    resolution: {integrity: sha512-J2SG5qLlgyunhc5YNIc95jjHa/0BzFq9z6w3VuIidbAw2b0R6GGSLzU4J0c7hkdiANSTBdnZIiS7nMTFh+JiRw==}
     dev: false
 
-  /@magic-ext/conflux@14.3.0:
-    resolution: {integrity: sha512-pxJHWJKNNZoh2yIncJmzB26gBb/eSoB1rMtDaRxpREBGlYbhstZKJQxxZmqjIma88/6Fcp/W6TLVXdc9pRRmBA==}
+  /@magic-ext/conflux@14.3.1:
+    resolution: {integrity: sha512-Zu89rr8hI0Hcrp4v2NLJORB2EfHa5ePemz/1rO6m160wrr81IbxxVTGUH64H+hVe25UFbWlrfR0fxspmyNzQDw==}
     dev: false
 
-  /@magic-ext/cosmos@16.3.0:
-    resolution: {integrity: sha512-9ZbOQ7UkoG3pHL0HC+UU5o+ePXrmZ+rcw2XFzreQKJzfXKctmLKty6+72At3y5VVCR6/if/RuAheq8NZ8MU6KA==}
+  /@magic-ext/cosmos@16.3.1:
+    resolution: {integrity: sha512-tByJPzD5MFrQH+ErOHGFvjs8iEQTPLvWWoC6TXDqHqc14TrQWnk6J28ennop3VBtkTDdQwg9nL8fr+qKHeNvEA==}
     dev: false
 
-  /@magic-ext/ed25519@12.3.0:
-    resolution: {integrity: sha512-ChQH/kaR3ZpjBtNyAxrUXLZ8Sov8gVQ2bDgTDdY5MTioLEZs0L3ALcLPtJPoNehkz+eI14gbU30dQUn/M6fmRQ==}
+  /@magic-ext/ed25519@12.3.1:
+    resolution: {integrity: sha512-7SHm5uTkJVHoyiameEbCi89iThMERI5EoTNZS42e0P7t0I96AN3OVEMfmxyRDiXMqaprz6FrCYiAk5mheUSV+Q==}
     dev: false
 
-  /@magic-ext/flow@16.3.0(@onflow/fcl@1.9.0)(@onflow/types@1.2.1):
-    resolution: {integrity: sha512-b+qtdRKfi02UGsyWoVWOY031yXiB86FO6eqJjCygB+QWIgtOXZFwr86gwCl80Ex5tsK1IJ1iOb/Ts/boDJ8Ppw==}
+  /@magic-ext/flow@16.3.1(@onflow/fcl@1.9.0)(@onflow/types@1.2.1):
+    resolution: {integrity: sha512-z9UWX2eCzLQNvWaqAcyGBgYq6EPSfpBqdXcpnCRtHjsTQhStEqEKqTbqJmPlPxsiZRoEfa/gyZpUSUWbTztQKw==}
     peerDependencies:
       '@onflow/fcl': ^1.4.1
       '@onflow/types': ^1.1.0
@@ -2281,36 +2281,36 @@ packages:
       '@onflow/types': 1.2.1
     dev: false
 
-  /@magic-ext/gdkms@4.3.0:
-    resolution: {integrity: sha512-m4qL7CiY1kc9e/sfB5zCIdWqRuSmIu/l6VTJT3T222PyPTvjUEGvaQxV6rK9X6p1QzXuylS1iaqOUrwmlIXm2A==}
+  /@magic-ext/gdkms@4.3.1:
+    resolution: {integrity: sha512-No7cAZ1XWDn9iDckiJ7DDDHwC6udiCdxiIHmKhyh9cDipJyacQx5Jj4P1UaOczkiRBgJ15G+Imu5bQQpsA16Kg==}
     dev: false
 
-  /@magic-ext/harmony@16.3.0:
-    resolution: {integrity: sha512-s1BCKEw7/KL6jxclF03KZw54GcHN3mAA8ZYEUQhuEyT0DayAdKiEexBvNlkKvKD1phg276iAvBKanP1af99Ayw==}
+  /@magic-ext/harmony@16.3.1:
+    resolution: {integrity: sha512-dAhfIVHPJvaaH1SCmFPjrw0VyDmXO5ssQY+ttr3R8JTK0aEEjELirn28vRQjZF2udSD9WCidu2ABv/Zfnq3SyA==}
     dev: false
 
-  /@magic-ext/icon@16.3.0:
-    resolution: {integrity: sha512-+GttcLM1IYxPs/xzYw1Z5skltPsDwuPU4aKtfBCIzDSp8NwDzqDgjUzBotp6dsiIyG2nCMqF2ZfdjjiB9TuPgA==}
+  /@magic-ext/icon@16.3.1:
+    resolution: {integrity: sha512-wV9jnFpnAWv+HoEnoOybuvrQj2D5+kjmrBZjmyaM4S+MZqc4NbA4RVOaL9FUbAY6/LxE30LlSisuJQFyJ1L59A==}
     dev: false
 
-  /@magic-ext/near@16.3.0:
-    resolution: {integrity: sha512-DCG0uCfBlIokc4stiZ98Od07t+VO4XnLxb90dK25CYUxC+pa74hMmFoohaIstS3GodvuFKJ5Bo6sPW/EvqeY5A==}
+  /@magic-ext/near@16.3.1:
+    resolution: {integrity: sha512-/ouueqRVRsDqT176KCeqRVK4puM2MdTITgZi2hyvMnHaFhCtgk4Rk/lOHxrv97x02J7ja4N3IZb3viC7fMp8Ng==}
     dev: false
 
-  /@magic-ext/oauth@15.3.0:
-    resolution: {integrity: sha512-0zZHB+dwytDfZPKam9xpjjsH+SunCn1lkr4QmQHlpEuAD52TbVTY5BeUdnM1RRtZAtXGmuSAcmGEZ4Wh5fbXkw==}
+  /@magic-ext/oauth@15.3.1:
+    resolution: {integrity: sha512-IxsA82nfz1uy6hbA90SYpy/z1MzkhBvo6blWy25aCniietVsVRO0dhO9nev76/dtf8+JC9/zbukJ+q/L+MCBgQ==}
     dev: false
 
-  /@magic-ext/oidc@4.3.0:
-    resolution: {integrity: sha512-Q/cx0YR8zKB91+oLN2Q+QjnHIM1UsrWeJsetJytD7bKluvKIU/8sIX87XqBwh7gKAnuEMFsHSteXsNhTS5jP8A==}
+  /@magic-ext/oidc@4.3.1:
+    resolution: {integrity: sha512-HjriTgPxECC37z4UPbomuL0sFd5Fe0aC8BEDSShD5Ltbi0oMjamEW7avYdZi14S5F4UHfcol0M3xTc+0FTNwrw==}
     dev: false
 
-  /@magic-ext/polkadot@16.3.0:
-    resolution: {integrity: sha512-AbbD8dZ5c8ZjUar6m0SBRFtlU/lZyd/9qYYaIy5LS5B14EP7bZuNMiUloC3jtfG98ZrhFnX2077VGpICj/x0lA==}
+  /@magic-ext/polkadot@16.3.1:
+    resolution: {integrity: sha512-1G+sqjgqk2GoLU3TpQV+aSCaCI2tmx/F4/TO5+q6fGClgbS1Nb7mVuHxhp4V33fAYrJK4wJcFLd2cGnT/PXxdA==}
     dev: false
 
-  /@magic-ext/react-native-bare-oauth@17.1.0(@magic-sdk/react-native-bare@22.3.0)(react-native-inappbrowser-reborn@3.7.0)(react-native@0.72.7):
-    resolution: {integrity: sha512-raNSAOChHBWhwPhNsGemn8MtuekEo0mNhjbsjY5V50VG2h5rfiC0xrR/6qIT3e4EAGerM9Pj8J6+w+paBPA2Ng==}
+  /@magic-ext/react-native-bare-oauth@18.0.1(@magic-sdk/react-native-bare@22.3.0)(react-native-inappbrowser-reborn@3.7.0)(react-native@0.72.7):
+    resolution: {integrity: sha512-KAhuDpEWSril6g+cOJfmH+fUTZr4VvQlZ5y2OXOA2aS7xEacAtwom+e5jGqnPRH9SfCOTA0YJZoo1TtlwGCDFw==}
     peerDependencies:
       '@magic-sdk/react-native-bare': '>=13.0.0'
       react-native-inappbrowser-reborn: '>=3.7.0'
@@ -2324,8 +2324,8 @@ packages:
       - react-native
     dev: false
 
-  /@magic-ext/react-native-expo-oauth@17.1.0(@magic-sdk/react-native-expo@22.3.0)(expo@49.0.20):
-    resolution: {integrity: sha512-lfXaQ+H7idN+16YdPUl9jBW/IURXN8pwdEv8xpeONzbfvGPnloDZbtKe+tubogQcur5mdg+NshmVhccxUEdQ2Q==}
+  /@magic-ext/react-native-expo-oauth@18.0.1(@magic-sdk/react-native-expo@22.3.0)(expo@49.0.20):
+    resolution: {integrity: sha512-p3EWTOGeQ1oZ18j5ae6r7pWlUxqRypZIKJo9BTzxuOEe3f81GNa+MiXkwvOIygP0itkkE2y4bBzhHqVFldjdxw==}
     peerDependencies:
       '@magic-sdk/react-native-expo': '>=13.0.0'
     dependencies:
@@ -2346,24 +2346,24 @@ packages:
       '@solana/web3.js': 1.87.6
     dev: false
 
-  /@magic-ext/taquito@13.3.0:
-    resolution: {integrity: sha512-lXqxBGf0q2a17NsaBQqONONlzeteG5LY4uky6ILZIDEMxg/UtEDUF911Y5EP6IySFXszUVQT4kmtd11YqaYSfQ==}
+  /@magic-ext/taquito@13.3.1:
+    resolution: {integrity: sha512-yv6FHGnFgM66nZ8Kp0826GEA46NpFa9LPHphbw6yQ0vIaxTnUseFY+v6Tv0h4WQ/jtNEFUbUfUldzdl5lSpb+A==}
     dev: false
 
-  /@magic-ext/terra@13.3.0:
-    resolution: {integrity: sha512-erHsf+GS1sYtIu6SJyM4k+/a08swlPkMbUtonyIGWUSPyVtkBSbccXFJK+kvgsyVdBJ8qfU/fOcgeDwibDYFoQ==}
+  /@magic-ext/terra@13.3.1:
+    resolution: {integrity: sha512-VlQmEdjXLD21tPlX117/LW+DdvOQjMTH6FXLDqqmVao0vV+wXo4kCNFOmGib6v1GmQr9z23IF3bo4GTQcj4OWg==}
     dev: false
 
-  /@magic-ext/tezos@16.3.0:
-    resolution: {integrity: sha512-khOPDReoX3uvhugqGubHZnM6QgJQGSvtuMZQXtcCUmt4KkRXuYl/+fHhlxR9McEj1poZDjWXpPpwkbwHBhUHlQ==}
+  /@magic-ext/tezos@16.3.1:
+    resolution: {integrity: sha512-g8MUEvCxs/Xv85GlTfyUBw+g6U/VqPhq5wDsrNFgqLLNzwsFkWIPwGn4Ncb3tdCP5cfBO5bTlH4N9n9GuJqstA==}
     dev: false
 
-  /@magic-ext/webauthn@15.3.0:
-    resolution: {integrity: sha512-AuTN80SK0hHbXTpUwwIBaRQJUhdDaTDxbre7hy0/mc1Bu7qGiKGq+2KiYTf6yJ3QGtAkaSFtBssnkOsZxRVHJg==}
+  /@magic-ext/webauthn@15.3.1:
+    resolution: {integrity: sha512-tZ8O2gC1XIvNrtVGxcFeYMyLTaIbF6X+1mWqe6lPGO8i0Us4sqg1+JOABWN9c5qsyxQnelD/JPRzmFK/eEcYgQ==}
     dev: false
 
-  /@magic-ext/zilliqa@16.3.0:
-    resolution: {integrity: sha512-9K33Q+E7crBRyodfMcpnKhuBTlRFZHa68h1HwZctvEDoJXPAMDE74pnyf73E7e5ZCED91J+quundXSHlrJLZNA==}
+  /@magic-ext/zilliqa@16.3.1:
+    resolution: {integrity: sha512-p9FuTEbaVck1CvjoirEpeGBwHTDTlFdhiOVqXigR2IJ67R9z6z2ROFLuydvvB0D4LLQVmfcJpIJSuMwd3TYG3w==}
     dev: false
 
   /@magic-sdk/commons@17.3.0(@magic-sdk/provider@21.3.0)(@magic-sdk/types@17.2.0):
