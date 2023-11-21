@@ -22,7 +22,6 @@
     "@magic-ext/flow": "^16.3.0",
     "@magic-ext/gdkms": "^4.3.0",
     "@magic-ext/harmony": "^16.3.0",
-
     "@magic-ext/icon": "^16.3.0",
     "@magic-ext/near": "^16.3.0",
     "@magic-ext/oauth": "^15.3.0",
